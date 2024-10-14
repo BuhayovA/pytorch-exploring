@@ -161,6 +161,16 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
+# OS generated files
+.DS_Store
+.DS_Store?
+**/.DS_Store
+._*
+.Spotlight-V100
+ehthumbs.db
+Icon?
+Thumbs.db
+
 # Datasets
 mnist
 sample_data
